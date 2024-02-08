@@ -1,3 +1,7 @@
 [submodule "app/(marketplace)"]
 	path = app/(marketplace)
 	url = https://github.com/AlexBrock/-marketplace-.git
+
+[submodule "app/(common)"]
+	path = app/(common)
+	url = https://github.com/AlexBrock/-common-.git
